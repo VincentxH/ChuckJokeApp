@@ -6,5 +6,4 @@ import org.springframework.context.annotation.*;
 @ImportResource("classpath:configuration/chuck-config.xml")
 public class JokeConfiguration {
 
-
 }
